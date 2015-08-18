@@ -2,7 +2,7 @@ Launches RabbitMQ server on `5672` port with management tool on `15672` port
 
 ## Installation
 ```
-git clone git@github.com:pm2s/vagrant-rabbitmq.git
+git clone https://github.com/pm2s/vagrant-rabbitmq.git
 cd vagrant-rabbitmq
 vagrant up
 ```
